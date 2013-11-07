@@ -2,7 +2,7 @@ worker_processes 2
 timeout 30
 listen "/tmp/unicorn.blog.sock"
 
-root = "/home/bitmaker/rails_work/photogur/current"
+root = "/Users/Work/bitmaker/rails_work/photogur/current"
 
 working_directory root
 
