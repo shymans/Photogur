@@ -1,7 +1,7 @@
 require "bundler/capistrano"
 
 
-set :application, "blog_app"
+set :application, "photogur"
 set :user, "bitmaker"
 
 
